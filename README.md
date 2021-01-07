@@ -36,10 +36,10 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 | en-US     | English (US)            | Original Stremio team and [@TheSparrowLenz](https://github.com/TheSparrowLenz)			                                                                                            |
 | es-ES     | Spanish                 | [@Decc98](https://github.com/Decc98), [@FernandoUY](https://github.com/FernandoUY), [@cosmoscalibur](https://github.com/cosmoscalibur), [@robertlluberes](https://github.com/robertlluberes) and Federico Erbetta |
 | fr-FR     | French                  | [@Nath74k](https://github.com/Nath74k), [@greg0ire](https://github.com/greg0ire) and [@tymmesyde](https://github.com/tymmesyde)			                    |
-| he-IL     | Hebrew                  | [@kornbed](https://github.com/kornbed), [@yishaiguedj1](https://github.com/yishaiguedj1), [@icecore2](https://github.com/icecore2)		                                                            |
+| he-IL     | Hebrew                  | [@kornbed](https://github.com/kornbed), [@yishaiguedj1](https://github.com/yishaiguedj1) and [@icecore2](https://github.com/icecore2)		                                                            |
 | hu-HU     | Hungarian               | [@pterdi](https://github.com/pterdi)				                                                                                                        |
 | hr-HR     | Croatian                | [@boljsa](https://github.com/boljsa)                                                                                                                        |
-| it-IT     | Italian                 | [@pippo73](https://github.com/pippo73), [@zurdyo](https://github.com/zurdyo), [@archetipo95](https://github.com/archetipo95),                                                               [@penguinFSS](https://github.com/penguinFSS) |
+| it-IT     | Italian                 | [@pippo73](https://github.com/pippo73), [@zurdyo](https://github.com/zurdyo), [@archetipo95](https://github.com/archetipo95) and                                                               [@penguinFSS](https://github.com/penguinFSS) |
 | mk-MK     | Macedonian              | Ivan Fonchev				                                                                                                                                |
 | my-BM     | Melayu                  | Abdul Muhaimin Che Sohor                                                                                                                                    |
 | nl-NL     | Dutch                   | [@Rubenoo](https://github.com/Rubenoo), [@Tbizla](https://github.com/Tbizla), [@tjorim](https://github.com/tjorim) and [@TheSparrowLenz](https://github.com/TheSparrowLenz)     	                                |
@@ -50,7 +50,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 | pt-PT     | Portuguese              | [@henriquev16](https://github.com/henriquev16), [@liqen](https://github.com/liqen) and [@iretan](https://github.com/iretan)	                                |
 | ru-RU     | Russian                 | [@thedp](https://github.com/thedp)					                                                                                                        |
 | se-SE     | Swedish                 | [@erikdsjostrom](https://github.com/erikdsjostrom)				                                                                                            |
-| sr-RS     | Serbian                 | [@m0k1](https://github.com/m0k1), [@RyanLinford](https://github.com/RyanLinford)                                                                      |
-| tr-TR     | Turkish                 | [@ali-demirtas](https://github.com/ali-demirtas) [@rozehan](https://github.com/rozehan)				                                                        |
+| sr-RS     | Serbian                 | [@m0k1](https://github.com/m0k1) and [@RyanLinford](https://github.com/RyanLinford)                                                                      |
+| tr-TR     | Turkish                 | [@ali-demirtas](https://github.com/ali-demirtas) and [@rozehan](https://github.com/rozehan)				                                                        |
 
 Feel free to add yourself!
